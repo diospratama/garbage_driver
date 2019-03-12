@@ -1,0 +1,69 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">E-Garbage App</string>
+
+    <!--activity main-->
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <!--navigasi menu-->
+    <string name="menu1">Profil</string>
+    <string name="menu2">Saldo</string>
+    <string name="menu3">Riwayat</string>
+    <string name="menu4">Tentang</string>
+    <string name="menu5">Keluar</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+
+
+    <!--activity profil-->
+    <string name="profil">Profil</string>
+    <string name="ktp">No KTP</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="alamat">Alamat</string>
+    <string name="hp">Phone</string>
+    <string name="username">UserName</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="password">Password</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+
+    <!--activity map-->
+    <string name="pickup">Selesai</string>
+    <string name="call">Panggil</string>
+
+    <!--wallet-->
+    <string name="btn_tukar_point">Tukar Point</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="point">Point</string>
+
+    <!--History-->>
+    <string name="history">Riwayat</string>
+    <string name="isi_saldo">Top Up Saldo</string>
+
+    <!--about information-->
+    <string name="app_email">member@gmail.com</string>
+
+    <!--activity single history-->
+    <string name="cash">Cash</string>
+    <string name="saldo">Saldo</string>
+
+    <!--google maps api-->
+    <string name="google_maps_key1">AIzaSyDS8FN3hsLer3azeaQRhAe5mT6j5sd3sS4</string>
+
+
+
+    <string name="drawer_visibility">@string/drawer_content_on</string>
+    <string name="drawer_content_on">0</string>
+
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_member_map">Map</string>
+
+
+</resources>
